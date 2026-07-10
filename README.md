@@ -3,6 +3,7 @@
 A production-ready RESTful API built with **Django**, **Django REST Framework**, **PostgreSQL**, and **Docker** for managing recipes, ingredients, and tags.
 
 The API allows users to securely register, authenticate, and manage their own recipes. Each authenticated user has access only to the recipes, ingredients, and tags they create, making the application suitable as the backend for recipe management systems, meal planning applications, or food-related services.
+
 ---
 ## Features
 
